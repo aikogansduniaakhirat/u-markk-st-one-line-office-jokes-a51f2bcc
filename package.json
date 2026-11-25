@@ -1,0 +1,11 @@
+{
+  "name": "u-markk-st-one-line-office-jokes-a51f2bcc",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One line of office comedy about the reply-all nobody could stop.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
